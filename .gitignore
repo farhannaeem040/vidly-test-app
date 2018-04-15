@@ -1,2 +1,5 @@
 /VidlyWebApplication/packages
 /VidlyWebApplication/.vs
+/VidlyWebApplication/VidlyWebApplication/bin
+/VidlyWebApplication/VidlyWebApplication/*.user
+/VidlyWebApplication/VidlyWebApplication/obj
